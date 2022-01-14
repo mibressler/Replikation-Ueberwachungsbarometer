@@ -1,4 +1,4 @@
-# Replikation der MPG-Projektstudie zu einem Überwachungsbarometer zur Operationalisierung der Überwachungsgesamtrechnung [[1]](#1)
+# Replikation des MPG-Pilotprojekts zu einem Überwachungsbarometer zur Operationalisierung der Überwachungsgesamtrechnung [[1]](#1)
 
 
 
