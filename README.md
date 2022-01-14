@@ -1,4 +1,4 @@
-# Replikation [[1]](#1)
+# Replikation der MPG-Projektstudie zu einem Überwachungsbarometer zur Operationalisierung der Überwachungsgesamtrechnung [[1]](#1)
 
 
 
